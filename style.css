@@ -41,7 +41,7 @@ h3#header {
 }
 
 #header a {
-  text-decoration-line: none;
+  text-decoration: none;
   color: #868e96;
 }
 
